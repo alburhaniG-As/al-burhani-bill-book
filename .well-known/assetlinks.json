@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.alburhanig_as.twa",
+        "sha256_cert_fingerprints": ["23:20:76:AD:E8:12:E0:B6:50:94:68:61:0C:C3:78:4E:FF:62:89:4E:DA:7C:C9:1F:2E:E2:27:3E:35:7B:48:AD"]
+      }
+    }]
