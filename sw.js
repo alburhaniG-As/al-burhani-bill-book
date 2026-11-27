@@ -1,4 +1,4 @@
-const CACHE_NAME = 'al-burhani-v4';
+const CACHE_NAME = 'al-burhani-v6';
 const CORE_ASSETS = [
   './',
   './index.html',
